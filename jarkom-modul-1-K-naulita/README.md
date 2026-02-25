@@ -124,7 +124,7 @@
 
 - Explanation
 
-  `Filter package digunakan untuk mencari yang memiliki flag ACK, maka gunakan tcp.flags.ack == 1. Selanjutnya gunakan filter untuk memastikan bahwa packetnya berhasil dengan memakai !tcp.analysis.flags. Selanjutnya buka Statistics lalu ke Protocol Hierarhy, lihat bagian TCP pada kolom End Packets untuk melihat berapa jumlah packet di mana protokol tersebut merupakan layer paling atas (murni TCP) yang sesuai dengan filter package yang telah diisikan.`
+  `Filter package digunakan untuk mencari yang memiliki flag ACK, maka gunakan tcp.flags.ack == 1. Selanjutnya gunakan filter untuk memastikan bahwa packetnya berhasil dengan memakai !tcp.analysis.flags. Selanjutnya buka Statistics lalu ke Protocol Hierarhy, lihat bagian TCP pada kolom End Packets untuk melihat berapa jumlah packet di mana protokol tersebut merupakan layer paling atas (murni TCP) yang sesuai dengan filter package yang telah diinputkan.`
 
 - Output result
 

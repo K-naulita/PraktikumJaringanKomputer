@@ -486,7 +486,7 @@ pkill named
   
   ![Foto](https://i.imgur.com/CoyfFk4.png)
   ![Foto](https://i.imgur.com/OVKU8ON.png)
-  ![Foto](https://i.imgur.com/0jPYIJB.png)
+  ![Hasil](https://i.imgur.com/0jPYIJB.png)
   
 - Explanation
 

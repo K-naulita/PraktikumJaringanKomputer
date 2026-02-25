@@ -60,7 +60,7 @@
 
   ![Subnetting](https://github.com/user-attachments/assets/98c3e438-d7a0-4f3c-aa4e-fda1d5c6fcac)
 
-  ![Subnetting (1)](https://github.com/user-attachments/assets/d0571588-2653-4031-aab1-46a25c4dc4f6)
+  ![Subnetting](https://github.com/user-attachments/assets/d0571588-2653-4031-aab1-46a25c4dc4f6)
 
 
 - Explanation
