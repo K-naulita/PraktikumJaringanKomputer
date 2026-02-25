@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Praktikum-NETICS-2025/jarkom-modul-3-K-naulita.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
